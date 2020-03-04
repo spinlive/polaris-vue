@@ -37,8 +37,5 @@
   "author": "ESC Apps Team <apps@eastsideco.com>",
   "license": "MIT",
   "dependencies": {
-    "change-case": "^3.0.1",
-    "node-sass": "^4.9.0",
-    "sass-loader": "^6.0.6"
   }
 }
